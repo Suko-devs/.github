@@ -58,7 +58,7 @@ We grow skills, share knowledge, and build technology that solves real problems.
 
 <p align="center">
   <a href="https://github.com/Orman87/Orman_xmd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=orman87&Orman_xmd&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=orman87&repo=Orman_xmd&theme=dark" />
   </a>
 </p>
 ---
