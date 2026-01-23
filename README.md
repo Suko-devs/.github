@@ -49,7 +49,7 @@ We grow skills, share knowledge, and build technology that solves real problems.
 
 <p align="center">
   <a href="https://github.com/Ridz-coder01/Nebula-MD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ridz-coder&repo=Nebula-MD&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ridz-coder01&repo=Nebula-MD&theme=dark" />
   </a>
   <a href="https://github.com/Kevintech-hub/Jexploit">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-tech&repo=Suko-Panel&theme=dark" />
