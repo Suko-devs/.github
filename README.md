@@ -51,13 +51,13 @@ We grow skills, share knowledge, and build technology that solves real problems.
   <a href="https://github.com/Ridz-coder01/Nebula-MD">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ridz-coder01&repo=Nebula-MD&theme=dark" />
   </a>
-  <a href="https://github.com/Kevintech-hub/Jexploit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-tech&repo=Suko-Panel&theme=dark" />
+  <a href="https://github.com/Kevintech-hub/Jexploit-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevintech-hub&repo=Jexploit-bot&theme=dark" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Suko-Devs-Crew/API-Hub">
+  <a href="https://github.com/Orman-xmd/API-Hub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=king-orman&Orman-xmd&theme=dark" />
   </a>
 </p>
