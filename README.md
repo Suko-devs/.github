@@ -57,8 +57,8 @@ We grow skills, share knowledge, and build technology that solves real problems.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Orman-xmd/API-Hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=king-orman&Orman-xmd&theme=dark" />
+  <a href="https://github.com/Orman87/Orman_xmd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=orman87&Orman_xmd&theme=dark" />
   </a>
 </p>
 ---
