@@ -10,9 +10,11 @@
 
 <!-- Custom Shields -->
 <p align="center">
+ <img src="https://img.shields.io/badge/Community-Developers-000000?style=for-the-badge">
+ <img src="https://img.shields.io/badge/Open%20Source-Yes-FFD700?style=for-the-badge">
   <img src="https://img.shields.io/badge/Origin-Uganda-FF0000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-FFD700?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Community-Developers-000000?style=for-the-badge">
+ 
+ 
 </p>
 
 ---
