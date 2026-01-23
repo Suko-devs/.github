@@ -84,4 +84,4 @@ We grow skills, share knowledge, and build technology that solves real problems.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,33:FFD700,66:FF0000,100:000000&height=120&section=footer" />
 </p>
-> © Suko Devs Crew | All rights reserved 
+© Suko Devs Crew | All rights reserved 
