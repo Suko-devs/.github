@@ -1,75 +1,3 @@
-
-
-## 🚀 About Suko Devs Crew
-
-**Suko Devs Crew** is a Ugandan-based open-source developer organization focused on building bots, automation tools, web applications, APIs, and innovative software solutions.  
-We grow skills, share knowledge, and build technology that solves real problems.
-
----
-
-## 🌍 Mission
-
-- Empower Ugandan & African developers  
-- Promote open-source collaboration  
-- Build scalable and practical software  
-- Strengthen local tech communities  
-
----
-
-## 💻 What We Build
-
-- WhatsApp & Telegram Bots  
-- Web Dashboards & Panels  
-- APIs & Developer Tools  
-- Automation Systems  
-- Open-source Libraries  
-
----
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Ridz-coder01/Nebula-MD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ridz-coder01&repo=Nebula-MD&theme=dark" />
-  </a>
-  <a href="https://github.com/Kevintech-hub/Jexploit-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevintech-hub&repo=Jexploit-bot&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Orman87/Orman_xmd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=orman87&repo=Orman_xmd&theme=dark" />
-  </a>
-</p>
----
-
-## 🤝 Join the Crew
-
-- Contribute to projects  
-- Share ideas  
-- Collaborate with other developers  
-
----
-
-
-**Location:** Uganda 🇺🇬
-
----
-
-## ⚡ Motto
-
-**Code. Collaborate. Create.**
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,33:FFD700,66:FF0000,100:000000&height=120&section=footer" />
-</p>
-
-
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,33:FFD700,66:FF0000,100:000000&height=220&section=header&text=NEMESIS%20MD%20MINI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
@@ -229,3 +157,7 @@ This project is licensed under the **MIT License**.
 > **Fast • Lightweight • Reliable • Multi-Device**
 
 Made with ❤️ by **Ridz Coder**
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,33:FFD700,66:FF0000,100:000000&height=120&section=footer" />
+</p>
