@@ -84,3 +84,290 @@ We grow skills, share knowledge, and build technology that solves real problems.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,33:FFD700,66:FF0000,100:000000&height=120&section=footer" />
 </p>
+
+
+
+
+# ⚡ Nemesis MD Mini
+
+> A fast, lightweight, and powerful **Multi-Device WhatsApp Bot** built with **Baileys**.
+> Inspired by SubZero MD while maintaining its own identity with clean code, speed, and reliability.
+
+---
+
+## ✨ Features
+
+- 📱 Multi-Device Support
+- ⚡ Fast & Lightweight
+- 🔑 QR Code Login
+- 🔗 Pairing Code Login
+- ♻️ Auto Reconnect
+- 📂 Plugin System
+- 👥 Group Management
+- 🤖 AI Features (Optional)
+- 🎨 Sticker Commands
+- 📥 Media Downloader
+- 🛡️ Anti-Link
+- 🚫 Anti-Spam
+- 📌 Custom Prefix
+- 👤 Owner Commands
+- 💻 Easy Configuration
+
+---
+
+## 📦 Requirements
+
+- Node.js v18+
+- Git
+- npm or yarn
+- Stable Internet Connection
+
+---
+
+## 🚀 Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/yourusername/nemesis-md-mini.git
+cd nemesis-md-mini
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Bot
+
+```bash
+npm start
+```
+
+---
+
+## 🔐 Environment Variables
+
+Create a `.env` file in the root directory.
+
+```env
+SESSION_ID=
+OWNER_NUMBER=2567XXXXXXXX
+BOT_NAME=Nemesis MD Mini
+PREFIX=.
+AUTO_READ=true
+AUTO_TYPING=false
+AUTO_REACT=false
+```
+
+---
+
+## 📁 Project Structure
+
+```
+Nemesis-MD-Mini/
+│
+├── commands/
+├── plugins/
+├── lib/
+├── database/
+├── session/
+├── config.js
+├── index.js
+├── package.json
+├── .env
+└── README.md
+```
+
+---
+
+## 🔑 Login
+
+Nemesis MD Mini supports:
+
+- QR Code Login
+- Pairing Code Login
+
+Simply run:
+
+```bash
+npm start
+```
+
+Follow the on-screen instructions to connect your WhatsApp account.
+
+---
+
+## ⚙️ Configuration
+
+Edit **config.js** or your **.env** file to customize:
+
+- Bot Name
+- Owner Number
+- Prefix
+- Auto Read
+- Auto React
+- Auto Typing
+- Public/Private Mode
+- Welcome Messages
+
+---
+
+## 📜 Commands
+
+### General
+
+- menu
+- ping
+- alive
+- owner
+- runtime
+- uptime
+
+### Group
+
+- tagall
+- hidetag
+- kick
+- add
+- promote
+- demote
+- mute
+- unmute
+
+### Media
+
+- sticker
+- image
+- play
+- video
+- song
+- tiktok
+- instagram
+
+### Utility
+
+- ai
+- calculate
+- translate
+- weather
+- qr
+- tourl
+
+### Owner
+
+- restart
+- shutdown
+- block
+- unblock
+- mode
+- setppbot
+
+---
+
+## 🌐 Deployment
+
+### Render
+
+1. Fork the repository.
+2. Create a Render Web Service.
+3. Connect GitHub.
+4. Add environment variables.
+5. Deploy.
+
+### Railway
+
+1. Fork the repository.
+2. Create a Railway project.
+3. Connect GitHub.
+4. Add environment variables.
+5. Deploy.
+
+### VPS
+
+```bash
+npm install
+npm start
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are always welcome.
+
+1. Fork the project.
+2. Create your feature branch.
+
+```bash
+git checkout -b feature-name
+```
+
+3. Commit your changes.
+
+```bash
+git commit -m "Added new feature"
+```
+
+4. Push to your branch.
+
+```bash
+git push origin feature-name
+```
+
+5. Open a Pull Request.
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+- ⭐ Star the repository
+- 🍴 Fork the repository
+- 🛠️ Contribute
+- 📢 Share with friends
+
+---
+
+## ⚠️ Disclaimer
+
+This project is intended for educational and personal use only.
+
+The developer is **not responsible** for:
+
+- Account bans
+- Misuse
+- Violation of WhatsApp Terms of Service
+
+Use responsibly.
+
+---
+
+## ❤️ Credits
+
+- Baileys
+- Node.js
+- Open Source Community
+- Inspired by SubZero MD
+
+---
+
+## 👨‍💻 Developer
+
+**Ridz Coder**
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+# ⚡ Nemesis MD Mini
+
+> **Fast • Lightweight • Reliable • Multi-Device**
+
+Made with ❤️ by **Ridz Coder**
