@@ -1,23 +1,4 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,33:FFD700,66:FF0000,100:000000&height=220&section=header&text=Suko%20Devs%20Crew&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<!-- Typing Subtitle -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Ugandan+Developers+Building+Open+Source;Bots+%7C+Web+Apps+%7C+Automation;Code.+Collaborate.+Create." />
-</p>
-
-<!-- Custom Shields -->
-<p align="center">
- <img src="https://img.shields.io/badge/Community-Developers-000000?style=for-the-badge">
- <img src="https://img.shields.io/badge/Open%20Source-Yes-FFD700?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Origin-Uganda-FF0000?style=for-the-badge">
- 
- 
-</p>
-
----
 
 ## 🚀 About Suko Devs Crew
 
@@ -88,7 +69,21 @@ We grow skills, share knowledge, and build technology that solves real problems.
 
 
 
-# ⚡ Nemesis MD Mini
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,33:FFD700,66:FF0000,100:000000&height=220&section=header&text=NEMESIS%20MD%20MINI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<!-- Custom Shields -->
+<p align="center">
+ <img src="https://img.shields.io/badge/Community-Developers-000000?style=for-the-badge">
+ <img src="https://img.shields.io/badge/Open%20Source-Yes-FFD700?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Origin-Uganda-FF0000?style=for-the-badge">
+ 
+ 
+</p>
+
+---
 
 > A fast, lightweight, and powerful **Multi-Device WhatsApp Bot** built with **Baileys**.
 > Inspired by NEMESIS MD while maintaining its own identity with clean code, speed, and reliability.
