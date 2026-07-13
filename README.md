@@ -91,7 +91,7 @@ We grow skills, share knowledge, and build technology that solves real problems.
 # ⚡ Nemesis MD Mini
 
 > A fast, lightweight, and powerful **Multi-Device WhatsApp Bot** built with **Baileys**.
-> Inspired by SubZero MD while maintaining its own identity with clean code, speed, and reliability.
+> Inspired by NEMESIS MD while maintaining its own identity with clean code, speed, and reliability.
 
 ---
 
@@ -99,10 +99,8 @@ We grow skills, share knowledge, and build technology that solves real problems.
 
 - 📱 Multi-Device Support
 - ⚡ Fast & Lightweight
-- 🔑 QR Code Login
 - 🔗 Pairing Code Login
 - ♻️ Auto Reconnect
-- 📂 Plugin System
 - 👥 Group Management
 - 🤖 AI Features (Optional)
 - 🎨 Sticker Commands
@@ -115,93 +113,26 @@ We grow skills, share knowledge, and build technology that solves real problems.
 
 ---
 
-## 📦 Requirements
-
-- Node.js v18+
-- Git
-- npm or yarn
-- Stable Internet Connection
-
----
-
-## 🚀 Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/nemesis-md-mini.git
-cd nemesis-md-mini
-```
-
-### Install Dependencies
-
-```bash
-npm install
-```
-
-### Start Bot
-
-```bash
-npm start
-```
-
----
-
-## 🔐 Environment Variables
-
-Create a `.env` file in the root directory.
-
-```env
-SESSION_ID=
-OWNER_NUMBER=2567XXXXXXXX
-BOT_NAME=Nemesis MD Mini
-PREFIX=.
-AUTO_READ=true
-AUTO_TYPING=false
-AUTO_REACT=false
-```
-
----
-
 ## 📁 Project Structure
 
 ```
 Nemesis-MD-Mini/
 │
-├── commands/
-├── plugins/
-├── lib/
-├── database/
-├── session/
+├── app.json
 ├── config.js
+├── id.js
 ├── index.js
+├── main html
+├── msg js
 ├── package.json
-├── .env
-└── README.md
+└── pair.js
 ```
-
----
-
-## 🔑 Login
-
-Nemesis MD Mini supports:
-
-- QR Code Login
-- Pairing Code Login
-
-Simply run:
-
-```bash
-npm start
-```
-
-Follow the on-screen instructions to connect your WhatsApp account.
 
 ---
 
 ## ⚙️ Configuration
 
-Edit **config.js** or your **.env** file to customize:
+Edit **config.js** or your file to customize:
 
 - Bot Name
 - Owner Number
@@ -210,59 +141,6 @@ Edit **config.js** or your **.env** file to customize:
 - Auto React
 - Auto Typing
 - Public/Private Mode
-- Welcome Messages
-
----
-
-## 📜 Commands
-
-### General
-
-- menu
-- ping
-- alive
-- owner
-- runtime
-- uptime
-
-### Group
-
-- tagall
-- hidetag
-- kick
-- add
-- promote
-- demote
-- mute
-- unmute
-
-### Media
-
-- sticker
-- image
-- play
-- video
-- song
-- tiktok
-- instagram
-
-### Utility
-
-- ai
-- calculate
-- translate
-- weather
-- qr
-- tourl
-
-### Owner
-
-- restart
-- shutdown
-- block
-- unblock
-- mode
-- setppbot
 
 ---
 
@@ -342,21 +220,6 @@ The developer is **not responsible** for:
 - Violation of WhatsApp Terms of Service
 
 Use responsibly.
-
----
-
-## ❤️ Credits
-
-- Baileys
-- Node.js
-- Open Source Community
-- Inspired by SubZero MD
-
----
-
-## 👨‍💻 Developer
-
-**Ridz Coder**
 
 ---
 
